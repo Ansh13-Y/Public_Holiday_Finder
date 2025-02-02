@@ -40,6 +40,15 @@ Public-Holidays-Finder
 │   ├── russia.html
 │   ├── america.html
 
+# Screenshot
+-Home Page: 
+![image](https://github.com/user-attachments/assets/c571b09b-44bb-454a-a512-e2e5969cfbac)
+![image](https://github.com/user-attachments/assets/249220e0-ed91-4bff-9ccc-1992f579ad5d)
+-Public Holidays of India (any one country):
+![image](https://github.com/user-attachments/assets/25e92e74-5847-4d80-9df7-c49c43123a17)
+-Public Holidays of United States (any one country):
+![image](https://github.com/user-attachments/assets/aaf24380-fa97-402e-a1ae-5d364826c7bd)
+
 ## Future Improvements
 - Add API integration to fetch real-time holiday data.
 - Improve the design with modern CSS frameworks like Bootstrap or Tailwind.
